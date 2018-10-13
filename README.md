@@ -10,7 +10,7 @@ Sometimes, you might get requests for [posts](https://github.com/steelcityroller
 
 ### Per Season:
 
-1. [Front Page](https://github.com/steelcityrollerderby/website_maintenance/blob/master/update_front_page.md) (especially [graphics]() for the schedule and the sponsors)
+1. [Front Page](https://github.com/steelcityrollerderby/website_maintenance/blob/master/update_front_page.md) (especially graphics for the schedule and the sponsors)
 2. [Team Pages](https://github.com/steelcityrollerderby/website_maintenance/blob/master/update_team_page.md)
 3. [New Skater Page](https://github.com/steelcityrollerderby/website_maintenance/blob/master/update_new_skater_page.md)
 4. [Footer](https://github.com/steelcityrollerderby/website_maintenance/blob/master/update_footer.md)
