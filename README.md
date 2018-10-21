@@ -29,3 +29,4 @@ Contact Wolverkween.
 
 - `#lo_website-redesign` (private channel, contact `@Wolverkween` to get invited; this is where the bulk of your website requests will be coming from)
 - `#leagueoutreach` (private channel, contact `@Wolverkween` to get invited; general requests might come from here)
+- `#socialmedia` (private channel, contact `@Wolverkween` to get invited; social media coordination happens here)
