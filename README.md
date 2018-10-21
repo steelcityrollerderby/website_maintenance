@@ -1,5 +1,9 @@
 # Website Maintenance Documentation:
 
+## Where to Go:
+
+[Get to the WP admin section of the site](http://www.steelcityrollerderby.org/home/wp-admin/)
+
 ## What Needs to be Maintained on the Website:
 
 ### Regularly:
