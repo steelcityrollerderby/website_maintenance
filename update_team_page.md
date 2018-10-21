@@ -36,6 +36,8 @@ Add a title. The title should be the format `TEAM NAME` `YEAR` `HEADSHOTS or STA
 
 Once you've got a title, go ahead and upload the images from your computer (the `Select Files from Your Computer` button) or choose them from the Media Library if they're already uploaded to the site (the `Select Files from Other Sources` button).
 
+Make sure that you identify the team, what types of headshots they are (featured skaters, skaters, staff), and the year so that this is easily searchable later.
+
 ![Screenshot how to setup a new envira gallery](https://github.com/steelcityrollerderby/website_maintenance/blob/master/screenshots/update_team_pages_screenshots/make_new_envira_gallery.png "Setup envira gallery identification")
 
 After all of the images that you currently have are updated, you need to edit their metadata. Click on the small blue pencil button of any image to start editing.
@@ -85,7 +87,6 @@ You should make sure that this line
 `<p style="text-align: center; color: white;"><strong>TITLE OF GALLERY</strong></p>` is above each envira gallery insert (where `TITLE OF GALLERY` should be replaced with `Skaters`, `Staff`, `Permanent Members`, or `Featured Skaters` depending on what team/gallery you're working with).
 
 ![Screenshot how to add titles](https://github.com/steelcityrollerderby/website_maintenance/blob/master/screenshots/update_team_pages_screenshots/adding_a_title_to_the_gallery.png "Title explanation")
-
 
 Go to the `Publish` box on the right and preview your changes by hitting the `Preview` button. If you are satisfied, click the blue `Update` button.
 
